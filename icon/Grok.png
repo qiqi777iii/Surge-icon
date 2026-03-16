@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <script type="text/javascript" nonce="6c81056e8f444383af39ecd880a" src="//injections.adguard.org?ts=1773658338601&amp;type=content-script&amp;dmn=icon.yukonga.top&amp;url=https%3A%2F%2Ficon.yukonga.top%2F%3Fname%3Dgrok%26country%3Dus%26entity%3Dsoftware%26limit%3D18%26cut%3D2%26resolution%3D256%26format%3Dpng&amp;app=chrome.exe&amp;css=3&amp;js=1&amp;rel=1&amp;rji=1&amp;sbe=1&amp;stealth=0"></script><script type="text/javascript" nonce="6c81056e8f444383af39ecd880a" src="//injections.adguard.org?ts=1773658338601&amp;name=AdGuard%20Extra&amp;type=user-script"></script><link rel="icon" type="image/x-icon" href="./favicon.ico">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HQ ICON</title>
+  <link rel="stylesheet"
+    href="https://cdn-font.hyperos.mi.com/font/css?family=MiSans_VF:VF:Chinese_Simplify,Latin&display=swap">
+  <script type="module" crossorigin src="./assets/index-CJyEl-Op.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-Cy-NqLwq.css">
+</head>
+
+<body>
+  <div id="root"></div>
+</body>
+
+</html>
