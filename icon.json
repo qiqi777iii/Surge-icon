@@ -31,6 +31,10 @@
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Avalanche%20Card%20-%20Pay%20Anywhere.png"
                   },
                   {
+                      "name":  "AWS Console",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/AWS%20Console.png"
+                  },
+                  {
                       "name":  "AWS",
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/AWS.jpeg"
                   },
@@ -99,6 +103,14 @@
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/DeepSeek%20-%20AI%20%E6%99%BA%E8%83%BD%E5%8A%A9%E6%89%8B.png"
                   },
                   {
+                      "name":  "Discord - Talk, Play, Hang Out",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Discord%20-%20Talk%2C%20Play%2C%20Hang%20Out.png"
+                  },
+                  {
+                      "name":  "Disney+",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Disney%2B.png"
+                  },
+                  {
                       "name":  "Dropbox_ Cloud Storage Backup",
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Dropbox_%20Cloud%20Storage%20Backup.png"
                   },
@@ -107,12 +119,20 @@
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/dtcpay.png"
                   },
                   {
+                      "name":  "Emby",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Emby.png"
+                  },
+                  {
                       "name":  "ether.fi",
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/ether.fi.png"
                   },
                   {
                       "name":  "GitHub",
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/GitHub.png"
+                  },
+                  {
+                      "name":  "Gmail - Email by Google",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Gmail%20-%20Email%20by%20Google.png"
                   },
                   {
                       "name":  "Google Gemini",
@@ -137,6 +157,10 @@
                   {
                       "name":  "imToken_ BTC \u0026 ETH Wallet",
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/imToken_%20BTC%20%26%20ETH%20Wallet.png"
+                  },
+                  {
+                      "name":  "Instagram",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Instagram.png"
                   },
                   {
                       "name":  "JALマイレージバンク",
@@ -171,8 +195,16 @@
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Krama%20256256.png"
                   },
                   {
+                      "name":  "LINE-iOS",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/LINE-iOS.png"
+                  },
+                  {
                       "name":  "Lloyds Mobile Banking",
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Lloyds%20Mobile%20Banking.png"
+                  },
+                  {
+                      "name":  "Mail",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Mail.png"
                   },
                   {
                       "name":  "Mail-iOS",
@@ -201,6 +233,10 @@
                   {
                       "name":  "NAKA Pay+",
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/NAKA%20Pay%2B.png"
+                  },
+                  {
+                      "name":  "Netflix",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Netflix.png"
                   },
                   {
                       "name":  "NovaXNS",
@@ -283,8 +319,16 @@
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/SumUp%20Pay_%20Mobile%20Finance.png"
                   },
                   {
+                      "name":  "Surge 5",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Surge%205.png"
+                  },
+                  {
                       "name":  "The Kingdom Bank",
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/The%20Kingdom%20Bank.png"
+                  },
+                  {
+                      "name":  "TikTok - Videos, Shop \u0026 LIVE",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/TikTok%20-%20Videos%2C%20Shop%20%26%20LIVE.png"
                   },
                   {
                       "name":  "Tomorrow 256x256",
@@ -319,12 +363,20 @@
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Wayex_%20Spend%20Stables%20Anywhere.png"
                   },
                   {
+                      "name":  "WhatsApp Messenger",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/WhatsApp%20Messenger.png"
+                  },
+                  {
                       "name":  "Wirex_ Finance Manager \u0026 Trade",
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Wirex_%20Finance%20Manager%20%26%20Trade.png"
                   },
                   {
                       "name":  "Wise",
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Wise.png"
+                  },
+                  {
+                      "name":  "X",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/X.png"
                   },
                   {
                       "name":  "XPlace_ Crypto Credit Card",
