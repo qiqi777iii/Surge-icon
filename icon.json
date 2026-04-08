@@ -1,442 +1,111 @@
 {
-    "name":  "Surge-icon",
-    "description":  "Custom icon library",
-    "icons":  [
-                  {
-                      "name":  "1inch_ DeFi Crypto Wallet",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/1inch_%20DeFi%20Crypto%20Wallet.png"
-                  },
-                  {
-                      "name":  "2degrees NZ",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/2degrees%20NZ.png"
-                  },
-                  {
-                      "name":  "Altery",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Altery.png"
-                  },
-                  {
-                      "name":  "amaysim",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/amaysim.png"
-                  },
-                  {
-                      "name":  "ANA MILEAGE CLUB",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/ANA%20MILEAGE%20CLUB.png"
-                  },
-                  {
-                      "name":  "AOL Mail, News, Weather",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/AOL%20Mail%2C%20News%2C%20Weather.png"
-                  },
-                  {
-                      "name":  "Avalanche Card - Pay Anywhere",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Avalanche%20Card%20-%20Pay%20Anywhere.png"
-                  },
-                  {
-                      "name":  "AWS Console",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/AWS%20Console.png"
-                  },
-                  {
-                      "name":  "AxobHub",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/AxobHub.jpg"
-                  },
-                  {
-                      "name":  "BBVA DE",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/BBVA%20DE.png"
-                  },
-                  {
-                      "name":  "bilibili - All Your Fav Videos",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/bilibili%20-%20All%20Your%20Fav%20Videos.png"
-                  },
-                  {
-                      "name":  "Bitget Wallet_ Bitcoin, Crypto",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Bitget%20Wallet_%20Bitcoin%2C%20Crypto.png"
-                  },
-                  {
-                      "name":  "Bybit.eu_ Kaufe BTC \u0026 Krypto",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Bybit.eu_%20Kaufe%20BTC%20%26%20Krypto.png"
-                  },
-                  {
-                      "name":  "Bybit_ Buy Bitcoin \u0026 Crypto",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Bybit_%20Buy%20Bitcoin%20%26%20Crypto.png"
-                  },
-                  {
-                      "name":  "CEX.IO_ Crypto Wallet_Exchange",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/CEX.IO_%20Crypto%20Wallet_Exchange.png"
-                  },
-                  {
-                      "name":  "ChatGPT",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/ChatGPT.png"
-                  },
-                  {
-                      "name":  "Claude by Anthropic",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Claude%20by%20Anthropic.png"
-                  },
-                  {
-                      "name":  "CLI",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/CLI.jpg"
-                  },
-                  {
-                      "name":  "COCA_ Crypto Card \u0026 Wallet",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/COCA_%20Crypto%20Card%20%26%20Wallet.png"
-                  },
-                  {
-                      "name":  "CoinZoom Buy, Spend, Send BTC",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/CoinZoom%20Buy%2C%20Spend%2C%20Send%20BTC.png"
-                  },
-                  {
-                      "name":  "Curve Pay — Wallet \u0026 Cashback",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Curve%20Pay%20%E2%80%94%20Wallet%20%26%20Cashback.png"
-                  },
-                  {
-                      "name":  "Cypher Wallet",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Cypher%20Wallet.png"
-                  },
-                  {
-                      "name":  "DCS DeCard",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/DCS%20DeCard.png"
-                  },
-                  {
-                      "name":  "DeepL 翻译",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/DeepL%20%E7%BF%BB%E8%AF%91.png"
-                  },
-                  {
-                      "name":  "DeepSeek - AI Assistant",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/DeepSeek%20-%20AI%20Assistant.png"
-                  },
-                  {
-                      "name":  "Discord - Talk, Play, Hang Out",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Discord%20-%20Talk%2C%20Play%2C%20Hang%20Out.png"
-                  },
-                  {
-                      "name":  "Disney+",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Disney%2B.png"
-                  },
-                  {
-                      "name":  "Dropbox_ Cloud Storage Backup",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Dropbox_%20Cloud%20Storage%20Backup.png"
-                  },
-                  {
-                      "name":  "dtcpay",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/dtcpay.png"
-                  },
-                  {
-                      "name":  "Emby",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Emby.png"
-                  },
-                  {
-                      "name":  "ether.fi",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/ether.fi.png"
-                  },
-                  {
-                      "name":  "GitHub",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/GitHub.png"
-                  },
-                  {
-                      "name":  "Gmail - Email by Google",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Gmail%20-%20Email%20by%20Google.png"
-                  },
-                  {
-                      "name":  "Google",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Google.png"
-                  },
-                  {
-                      "name":  "Google Gemini",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Google%20Gemini.png"
-                  },
-                  {
-                      "name":  "Google Maps",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Google%20Maps.png"
-                  },
-                  {
-                      "name":  "Google Translate",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Google%20Translate.png"
-                  },
-                  {
-                      "name":  "Grok",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Grok.png"
-                  },
-                  {
-                      "name":  "hanime1",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/hanime1.png"
-                  },
-                  {
-                      "name":  "HTX_Buy BTC, Crypto Exchange",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/HTX_Buy%20BTC%2C%20Crypto%20Exchange.png"
-                  },
-                  {
-                      "name":  "imToken_ BTC \u0026 ETH Wallet",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/imToken_%20BTC%20%26%20ETH%20Wallet.png"
-                  },
-                  {
-                      "name":  "Instagram",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Instagram.png"
-                  },
-                  {
-                      "name":  "JALマイレージバンク",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/JAL%E3%83%9E%E3%82%A4%E3%83%AC%E3%83%BC%E3%82%B8%E3%83%90%E3%83%B3%E3%82%AF.png"
-                  },
-                  {
-                      "name":  "Jupiter Mobile",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Jupiter%20Mobile.png"
-                  },
-                  {
-                      "name":  "KAST Finance",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/KAST%20Finance.png"
-                  },
-                  {
-                      "name":  "Kem App",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Kem%20App.png"
-                  },
-                  {
-                      "name":  "knockout-modified",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/knockout-modified.png"
-                  },
-                  {
-                      "name":  "KOHO_ Award-winning Money App",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/KOHO_%20Award-winning%20Money%20App.png"
-                  },
-                  {
-                      "name":  "Krak_ Money \u0026 Crypto Transfer",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Krak_%20Money%20%26%20Crypto%20Transfer.png"
-                  },
-                  {
-                      "name":  "Kraken_ Buy Bitcoin \u0026 Crypto",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Kraken_%20Buy%20Bitcoin%20%26%20Crypto.png"
-                  },
-                  {
-                      "name":  "Krama 256256",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Krama%20256256.png"
-                  },
-                  {
-                      "name":  "LINE-iOS",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/LINE-iOS.png"
-                  },
-                  {
-                      "name":  "Lloyds Mobile Banking",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Lloyds%20Mobile%20Banking.png"
-                  },
-                  {
-                      "name":  "Mail",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Mail.png"
-                  },
-                  {
-                      "name":  "Maya – savings, loans, cards",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Maya%20%E2%80%93%20savings%2C%20loans%2C%20cards.png"
-                  },
-                  {
-                      "name":  "Meta Mask",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Meta%20Mask.png"
-                  },
-                  {
-                      "name":  "Microsoft Outlook",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Microsoft%20Outlook.png"
-                  },
-                  {
-                      "name":  "Monzo Bank - Mobile Banking",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Monzo%20Bank%20-%20Mobile%20Banking.png"
-                  },
-                  {
-                      "name":  "N26 — Love your bank",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/N26%20%E2%80%94%20Love%20your%20bank.png"
-                  },
-                  {
-                      "name":  "NAKA Pay+",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/NAKA%20Pay%2B.png"
-                  },
-                  {
-                      "name":  "Netflix",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Netflix.png"
-                  },
-                  {
-                      "name":  "NovaXNS",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/NovaXNS.jpg"
-                  },
-                  {
-                      "name":  "OKX：比特幣投資，使用全球前二加密貨幣交易所\u0026Web3錢包",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/OKX%EF%BC%9A%E6%AF%94%E7%89%B9%E5%B9%A3%E6%8A%95%E8%B3%87%EF%BC%8C%E4%BD%BF%E7%94%A8%E5%85%A8%E7%90%83%E5%89%8D%E4%BA%8C%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E4%BA%A4%E6%98%93%E6%89%80%26Web3%E9%8C%A2%E5%8C%85.png"
-                  },
-                  {
-                      "name":  "Oracle",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Oracle.jpeg"
-                  },
-                  {
-                      "name":  "PayPal - Pay, Send, Save",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/PayPal%20-%20Pay%2C%20Send%2C%20Save.png"
-                  },
-                  {
-                      "name":  "Payy",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Payy.png"
-                  },
-                  {
-                      "name":  "Perplexity - AI Search \u0026 Chat",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Perplexity%20-%20AI%20Search%20%26%20Chat.png"
-                  },
-                  {
-                      "name":  "PicACG",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/PicACG.png"
-                  },
-                  {
-                      "name":  "PicACG-2",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/PicACG-2.png"
-                  },
-                  {
-                      "name":  "PicACG-3",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/PicACG-3.png"
-                  },
-                  {
-                      "name":  "Pionex - Crypto Trading Bots",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Pionex%20-%20Crypto%20Trading%20Bots.png"
-                  },
-                  {
-                      "name":  "Proton Mail - Encrypted Email",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Proton%20Mail%20-%20Encrypted%20Email.png"
-                  },
-                  {
-                      "name":  "Ready_ Earn on Bitcoin \u0026 USDC",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Ready_%20Earn%20on%20Bitcoin%20%26%20USDC.png"
-                  },
-                  {
-                      "name":  "RedotPay_ Crypto Card \u0026 Pay",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/RedotPay_%20Crypto%20Card%20%26%20Pay.png"
-                  },
-                  {
-                      "name":  "Roogoo",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Roogoo.png"
-                  },
-                  {
-                      "name":  "SafePal_ Crypto Wallet BTC NFT",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/SafePal_%20Crypto%20Wallet%20BTC%20NFT.png"
-                  },
-                  {
-                      "name":  "SAVO_ All-In-One Wallet",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/SAVO_%20All-In-One%20Wallet.png"
-                  },
-                  {
-                      "name":  "Shakepay_ Buy Bitcoin Canada",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Shakepay_%20Buy%20Bitcoin%20Canada.png"
-                  },
-                  {
-                      "name":  "Skrill - Wallet App",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Skrill%20-%20Wallet%20App.png"
-                  },
-                  {
-                      "name":  "Solflare - Solana Wallet",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Solflare%20-%20Solana%20Wallet.png"
-                  },
-                  {
-                      "name":  "Solid card",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Solid%20card.png"
-                  },
-                  {
-                      "name":  "Solid card - 256x256",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Solid%20card%20-%20256x256.png"
-                  },
-                  {
-                      "name":  "Speedtest by Ookla",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Speedtest%20by%20Ookla.png"
-                  },
-                  {
-                      "name":  "Stripe Dashboard",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Stripe%20Dashboard.png"
-                  },
-                  {
-                      "name":  "SumUp Pay_ Mobile Finance",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/SumUp%20Pay_%20Mobile%20Finance.png"
-                  },
-                  {
-                      "name":  "Surge 5",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Surge%205.png"
-                  },
-                  {
-                      "name":  "Tachimanga",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Tachimanga.png"
-                  },
-                  {
-                      "name":  "The Kingdom Bank",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/The%20Kingdom%20Bank.png"
-                  },
-                  {
-                      "name":  "TikTok - Videos, Shop \u0026 LIVE",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/TikTok%20-%20Videos%2C%20Shop%20%26%20LIVE.png"
-                  },
-                  {
-                      "name":  "Tomorrow",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Tomorrow.png"
-                  },
-                  {
-                      "name":  "Trading 212 - Stocks \u0026 ETFs",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Trading%20212%20-%20Stocks%20%26%20ETFs.png"
-                  },
-                  {
-                      "name":  "Tuyo_ Speed up your money",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Tuyo_%20Speed%20up%20your%20money.png"
-                  },
-                  {
-                      "name":  "UR_ Fiat \u0026 Crypto, Unified",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/UR_%20Fiat%20%26%20Crypto%2C%20Unified.png"
-                  },
-                  {
-                      "name":  "UU wallet",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/UU%20wallet.jpeg"
-                  },
-                  {
-                      "name":  "VIMPay",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/VIMPay.png"
-                  },
-                  {
-                      "name":  "Wayex_ Spend Stables Anywhere",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Wayex_%20Spend%20Stables%20Anywhere.png"
-                  },
-                  {
-                      "name":  "WhatsApp Messenger",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/WhatsApp%20Messenger.png"
-                  },
-                  {
-                      "name":  "Wirex_ Finance Manager \u0026 Trade",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Wirex_%20Finance%20Manager%20%26%20Trade.png"
-                  },
-                  {
-                      "name":  "Wise",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Wise.png"
-                  },
-                  {
-                      "name":  "X",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/X.png"
-                  },
-                  {
-                      "name":  "XPlace_ Crypto Credit Card",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/XPlace_%20Crypto%20Credit%20Card.png"
-                  },
-                  {
-                      "name":  "Yahoo Mail_ Your smarter inbox",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Yahoo%20Mail_%20Your%20smarter%20inbox.png"
-                  },
-                  {
-                      "name":  "Yonder Rewards Cards",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Yonder%20Rewards%20Cards.png"
-                  },
-                  {
-                      "name":  "YouTube",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/YouTube.png"
-                  },
-                  {
-                      "name":  "YPT_ Crypto Card \u0026 Pay",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/YPT_%20Crypto%20Card%20%26%20Pay.png"
-                  },
-                  {
-                      "name":  "Zero_ Sustainable Money App",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Zero_%20Sustainable%20Money%20App.png"
-                  },
-                  {
-                      "name":  "Zilch_ Spend with benefits",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Zilch_%20Spend%20with%20benefits.png"
-                  },
-                  {
-                      "name":  "Zopa Bank – Mobile Banking",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Zopa%20Bank%20%E2%80%93%20Mobile%20Banking.png"
-                  },
-                  {
-                      "name":  "幣安 - 買比特幣，就用全球第一投資理財首選加密貨幣交易所",
-                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/%E5%B9%A3%E5%AE%89%20-%20%E8%B2%B7%E6%AF%94%E7%89%B9%E5%B9%A3%EF%BC%8C%E5%B0%B1%E7%94%A8%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E9%A6%96%E9%81%B8%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E4%BA%A4%E6%98%93%E6%89%80.png"
-                  }
-              ]
+    "1inch_ DeFi Crypto Wallet":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/1inch_%20DeFi%20Crypto%20Wallet.png",
+    "2degrees NZ":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/2degrees%20NZ.png",
+    "ANA MILEAGE CLUB":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/ANA%20MILEAGE%20CLUB.png",
+    "AOL Mail, News, Weather":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/AOL%20Mail%2C%20News%2C%20Weather.png",
+    "AWS Console":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/AWS%20Console.png",
+    "Altery":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Altery.png",
+    "Avalanche Card - Pay Anywhere":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Avalanche%20Card%20-%20Pay%20Anywhere.png",
+    "AxobHub":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/AxobHub.jpg",
+    "BBVA DE":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/BBVA%20DE.png",
+    "Bitget Wallet_ Bitcoin, Crypto":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Bitget%20Wallet_%20Bitcoin%2C%20Crypto.png",
+    "Bybit.eu_ Kaufe BTC \u0026 Krypto":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Bybit.eu_%20Kaufe%20BTC%20%26%20Krypto.png",
+    "Bybit_ Buy Bitcoin \u0026 Crypto":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Bybit_%20Buy%20Bitcoin%20%26%20Crypto.png",
+    "CEX.IO_ Crypto Wallet_Exchange":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/CEX.IO_%20Crypto%20Wallet_Exchange.png",
+    "CLI":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/CLI.jpg",
+    "COCA_ Crypto Card \u0026 Wallet":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/COCA_%20Crypto%20Card%20%26%20Wallet.png",
+    "ChatGPT":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/ChatGPT.png",
+    "Claude by Anthropic":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Claude%20by%20Anthropic.png",
+    "CoinZoom Buy, Spend, Send BTC":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/CoinZoom%20Buy%2C%20Spend%2C%20Send%20BTC.png",
+    "Curve Pay — Wallet \u0026 Cashback":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Curve Pay — Wallet \u0026 Cashback.png",
+    "Cypher Wallet":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Cypher%20Wallet.png",
+    "DCS DeCard":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/DCS%20DeCard.png",
+    "DeepL 翻译":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/DeepL 翻译.png",
+    "DeepSeek - AI Assistant":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/DeepSeek%20-%20AI%20Assistant.png",
+    "Discord - Talk, Play, Hang Out":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Discord%20-%20Talk%2C%20Play%2C%20Hang%20Out.png",
+    "Disney+":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Disney+.png",
+    "Dropbox_ Cloud Storage Backup":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Dropbox_%20Cloud%20Storage%20Backup.png",
+    "Emby":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Emby.png",
+    "GitHub":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/GitHub.png",
+    "Gmail - Email by Google":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Gmail%20-%20Email%20by%20Google.png",
+    "Google Gemini":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Google%20Gemini.png",
+    "Google Maps":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Google%20Maps.png",
+    "Google Translate":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Google%20Translate.png",
+    "Google":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Google.png",
+    "Grok":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Grok.png",
+    "HTX_Buy BTC, Crypto Exchange":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/HTX_Buy%20BTC%2C%20Crypto%20Exchange.png",
+    "Instagram":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Instagram.png",
+    "JALマイレージバンク":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/JALマイレージバンク.png",
+    "Jupiter Mobile":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Jupiter%20Mobile.png",
+    "KAST Finance":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/KAST%20Finance.png",
+    "KOHO_ Award-winning Money App":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/KOHO_%20Award-winning%20Money%20App.png",
+    "Kem App":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Kem%20App.png",
+    "Krak_ Money \u0026 Crypto Transfer":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Krak_%20Money%20%26%20Crypto%20Transfer.png",
+    "Kraken_ Buy Bitcoin \u0026 Crypto":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Kraken_%20Buy%20Bitcoin%20%26%20Crypto.png",
+    "Krama 256256":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Krama%20256256.png",
+    "LINE-iOS":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/LINE-iOS.png",
+    "Lloyds Mobile Banking":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Lloyds%20Mobile%20Banking.png",
+    "Mail":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Mail.png",
+    "Maya – savings, loans, cards":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Maya – savings, loans, cards.png",
+    "Meta Mask":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Meta%20Mask.png",
+    "Microsoft Outlook":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Microsoft%20Outlook.png",
+    "Monzo Bank - Mobile Banking":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Monzo%20Bank%20-%20Mobile%20Banking.png",
+    "N26 — Love your bank":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/N26 — Love your bank.png",
+    "NAKA Pay+":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/NAKA Pay+.png",
+    "Netflix":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Netflix.png",
+    "NovaXNS":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/NovaXNS.jpg",
+    "OKX：比特幣投資，使用全球前二加密貨幣交易所\u0026Web3錢包":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/OKX：比特幣投資，使用全球前二加密貨幣交易所\u0026Web3錢包.png",
+    "Oracle":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Oracle.jpeg",
+    "PayPal - Pay, Send, Save":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/PayPal%20-%20Pay%2C%20Send%2C%20Save.png",
+    "Payy":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Payy.png",
+    "Perplexity - AI Search \u0026 Chat":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Perplexity%20-%20AI%20Search%20%26%20Chat.png",
+    "PicACG-2":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/PicACG-2.png",
+    "PicACG-3":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/PicACG-3.png",
+    "PicACG":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/PicACG.png",
+    "Pionex - Crypto Trading Bots":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Pionex%20-%20Crypto%20Trading%20Bots.png",
+    "Proton Mail - Encrypted Email":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Proton%20Mail%20-%20Encrypted%20Email.png",
+    "Ready_ Earn on Bitcoin \u0026 USDC":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Ready_%20Earn%20on%20Bitcoin%20%26%20USDC.png",
+    "RedotPay_ Crypto Card \u0026 Pay":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/RedotPay_%20Crypto%20Card%20%26%20Pay.png",
+    "Roogoo":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Roogoo.png",
+    "SAVO_ All-In-One Wallet":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/SAVO_%20All-In-One%20Wallet.png",
+    "SafePal_ Crypto Wallet BTC NFT":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/SafePal_%20Crypto%20Wallet%20BTC%20NFT.png",
+    "Shakepay_ Buy Bitcoin Canada":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Shakepay_%20Buy%20Bitcoin%20Canada.png",
+    "Skrill - Wallet App":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Skrill%20-%20Wallet%20App.png",
+    "Solflare - Solana Wallet":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Solflare%20-%20Solana%20Wallet.png",
+    "Solid card - 256x256":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Solid%20card%20-%20256x256.png",
+    "Solid card":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Solid%20card.png",
+    "Speedtest by Ookla":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Speedtest%20by%20Ookla.png",
+    "Stripe Dashboard":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Stripe%20Dashboard.png",
+    "SumUp Pay_ Mobile Finance":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/SumUp%20Pay_%20Mobile%20Finance.png",
+    "Surge 5":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Surge%205.png",
+    "Tachimanga":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Tachimanga.png",
+    "The Kingdom Bank":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/The%20Kingdom%20Bank.png",
+    "TikTok - Videos, Shop \u0026 LIVE":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/TikTok%20-%20Videos%2C%20Shop%20%26%20LIVE.png",
+    "Tomorrow":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Tomorrow.png",
+    "Trading 212 - Stocks \u0026 ETFs":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Trading%20212%20-%20Stocks%20%26%20ETFs.png",
+    "Tuyo_ Speed up your money":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Tuyo_%20Speed%20up%20your%20money.png",
+    "UR_ Fiat \u0026 Crypto, Unified":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/UR_%20Fiat%20%26%20Crypto%2C%20Unified.png",
+    "UU wallet":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/UU%20wallet.jpeg",
+    "VIMPay":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/VIMPay.png",
+    "Wayex_ Spend Stables Anywhere":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Wayex_%20Spend%20Stables%20Anywhere.png",
+    "WhatsApp Messenger":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/WhatsApp%20Messenger.png",
+    "Wirex_ Finance Manager \u0026 Trade":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Wirex_%20Finance%20Manager%20%26%20Trade.png",
+    "Wise":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Wise.png",
+    "X":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/X.png",
+    "XPlace_ Crypto Credit Card":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/XPlace_%20Crypto%20Credit%20Card.png",
+    "YPT_ Crypto Card \u0026 Pay":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/YPT_%20Crypto%20Card%20%26%20Pay.png",
+    "Yahoo Mail_ Your smarter inbox":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Yahoo%20Mail_%20Your%20smarter%20inbox.png",
+    "Yonder Rewards Cards":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Yonder%20Rewards%20Cards.png",
+    "YouTube":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/YouTube.png",
+    "Zero_ Sustainable Money App":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Zero_%20Sustainable%20Money%20App.png",
+    "Zilch_ Spend with benefits":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Zilch_%20Spend%20with%20benefits.png",
+    "Zopa Bank – Mobile Banking":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Zopa Bank – Mobile Banking.png",
+    "amaysim":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/amaysim.png",
+    "bilibili - All Your Fav Videos":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/bilibili%20-%20All%20Your%20Fav%20Videos.png",
+    "dtcpay":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/dtcpay.png",
+    "ether.fi":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/ether.fi.png",
+    "hanime1":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/hanime1.png",
+    "imToken_ BTC \u0026 ETH Wallet":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/imToken_%20BTC%20%26%20ETH%20Wallet.png",
+    "knockout-modified":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/knockout-modified.png",
+    "幣安 - 買比特幣，就用全球第一投資理財首選加密貨幣交易所":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/幣安 - 買比特幣，就用全球第一投資理財首選加密貨幣交易所.png"
 }
