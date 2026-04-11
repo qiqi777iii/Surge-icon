@@ -166,6 +166,10 @@
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/HTX.png"
                   },
                   {
+                      "name":  "icloud",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/icloud.png"
+                  },
+                  {
                       "name":  "imToken",
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/imToken.png"
                   },
@@ -210,12 +214,20 @@
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Krama.png"
                   },
                   {
+                      "name":  "LANDrop",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/LANDrop.png"
+                  },
+                  {
                       "name":  "LINE",
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/LINE.png"
                   },
                   {
                       "name":  "Lloyds",
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Lloyds.png"
+                  },
+                  {
+                      "name":  "Loon",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Loon.png"
                   },
                   {
                       "name":  "Mail",
@@ -338,8 +350,16 @@
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Speedtest.png"
                   },
                   {
+                      "name":  "Steam",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Steam.png"
+                  },
+                  {
                       "name":  "Stripe",
                       "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Stripe.png"
+                  },
+                  {
+                      "name":  "Sub-Store",
+                      "url":  "https://raw.githubusercontent.com/qiqi777iii/Surge-icon/main/icon/Sub-Store.png"
                   },
                   {
                       "name":  "SumUpPay",
